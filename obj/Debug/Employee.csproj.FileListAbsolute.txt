@@ -1,0 +1,11 @@
+D:\Project\Employee\Employee\bin\Debug\Employee.exe.config
+D:\Project\Employee\Employee\bin\Debug\db.mdf
+D:\Project\Employee\Employee\bin\Debug\db_log.ldf
+D:\Project\Employee\Employee\bin\Debug\Employee.exe
+D:\Project\Employee\Employee\bin\Debug\Employee.pdb
+D:\Project\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+D:\Project\Employee\Employee\obj\Debug\Employee.Form1.resources
+D:\Project\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+D:\Project\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+D:\Project\Employee\Employee\obj\Debug\Employee.exe
+D:\Project\Employee\Employee\obj\Debug\Employee.pdb
